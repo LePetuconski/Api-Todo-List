@@ -27,7 +27,7 @@ node index
 
 **Status**: Em funcionamento.
 
-- Na construção do projeto, o frontend que utiliza a API está disponível aqui> (link).
+- Na construção do projeto, o frontend que utiliza a API está [disponível aqui](https://github.com/LePetuconski/Todo-List).
 
 ## 🛠️ Construído com
 
